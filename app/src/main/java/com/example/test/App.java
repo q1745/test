@@ -15,5 +15,7 @@ public class App extends Application {
 
         //设置腾讯优量汇渠道
         setChannel(3);
+
+        //丢丢丢
     }
 }
